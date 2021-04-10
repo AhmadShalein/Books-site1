@@ -1,0 +1,62 @@
+body{
+    background-color: #5f939a;
+    margin: 0%;
+}
+header {
+    background-color: #d8ac9c;
+    color: rgba(245, 238, 238, 0.917);
+    height: 100px;
+}
+header nav{ 
+    float: right;
+    width: 25%;
+    margin-top: 30px;
+}
+header h1 { 
+    float: left;
+    margin: 30px 0 0 3%;
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 6%;
+
+}
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+#exclusive{
+    background-color: salmon;
+}
+
+.paragraph{
+    background-color: silver;
+}
+
+.aboutusClass{
+    background-color: skyblue;
+}
+section .pic img {
+    display: inline-block;
+    text-align: center;
+    height: 450px;
+    width: 60%;
+    margin-left:100px;
+}
+
+section .pic img {
+    height: 400px;
+    width: 400px;
+}
+footer{
+    height: 80px;
+    background-color: darkslategray;
+    color: whitesmoke;
+}
+
+footer p{
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 50px;   
+}
